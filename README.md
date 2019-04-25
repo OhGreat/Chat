@@ -1,2 +1,3 @@
-# Chat-
-java client-server based application
+# Chat
+
+java client-server based chat application
