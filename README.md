@@ -1,3 +1,5 @@
 # Chat
 
-java client-server based chat application
+client-server based chat application
+
+written in java
